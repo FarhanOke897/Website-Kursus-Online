@@ -496,7 +496,7 @@
 
 @media (max-width: 991px) {
     .hero-bg-half-1 {
-        background-image: url(../img/header-2.jpg);
+        background-image: url(../img/pakjoko2.jpg);
         /* clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%); */
         filter: grayscale(0%);
         transform: scale(100% - 0%);
